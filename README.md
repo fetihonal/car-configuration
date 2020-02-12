@@ -14,10 +14,15 @@ Node sürümünüzü kontrol etmek için, bir terminal / konsol penceresinde dü
 ### Proje Kurulumu
 
 1 ) Proje dosyalarını indirin ve dizine gidin.
+
     | cd car-configuration
+    
 2) npm install komutunu kullanarak ihtiyaç duyulan tüm modülleri içe aktarın.
+
     | npm install
+    
 3) Kurulum başarılı ise aşağıdaki komut ile projeyi başlatın.
+
     | npm start
     
 Uygulama varsayılan olarak 3000 portunda açılacaktır.  ( localhost://3000 )
@@ -28,7 +33,5 @@ React projenin sunucu ortamında çalışası için buid edilmesi gerekir. Aşa�
     
 
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
