@@ -1,4 +1,4 @@
-## Morbiroller Car Configuration
+## Mobiroller Car Configuration
 
 Canlı demo görüntülemek için. https://demo.joyamedya.com).
 
@@ -31,10 +31,11 @@ Uygulama varsayılan olarak 3000 portunda açılacaktır.  ( localhost://3000 )
 
 React projenin sunucu ortamında çalışası için buid edilmesi gerekir. Aşağıdaki kodu kullanarak build et.
 
-    | npm run build
+     | npm run build
     
 ### Bilgilendirme
 
+Proje içerisinde maalesef test kodu bulunmuyor. ( Gecikme ve olumsuzluklardan dolayı.)
 Tasarım REACT JS front-end framework'ü ile hazırlanmıştır.
 Tasarımda herhangi bir HTML/CSS framework'ü kullanılmamıştır.
 CSS İçin Sass kullanılmıştır.
@@ -46,7 +47,19 @@ Flux 4 parçadan oluşuyor.
 #### Action
 #### Store
 #### View
-#### Dispatcher
+#### Dispatcher (reducers)
+
+
+
+### Proje Dışında Kullanılan Yapılar ( / Ayraçları kullanım önceliklerine göre ayırmaktadır.)
+
+Css Pre-processor ( PURE CSS / Sass / Less ) 
+Front-end Frameworks (Bootstrap / Materialize / Semantic )
+JavaScript Frameworks ( Vanilla.js / Vue.js (4/10) / React.js (Bu proje ile öğrenim hızı çok ilerledi. (7/10)) )
+Task Runner ( NPM )
+Version Control ( Githup / Bitbucket )
+
+
 
 
     
