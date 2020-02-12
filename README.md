@@ -36,9 +36,13 @@ React projenin sunucu ortamında çalışası için buid edilmesi gerekir. Aşa�
 ### Bilgilendirme
 
 Proje içerisinde maalesef test kodu bulunmuyor. ( Gecikme ve olumsuzluklardan dolayı.)
+
 Tasarım REACT JS front-end framework'ü ile hazırlanmıştır.
+
 Tasarımda herhangi bir HTML/CSS framework'ü kullanılmamıştır.
+
 CSS İçin Sass kullanılmıştır.
+
 
 ### Design Patter
 
@@ -54,10 +58,15 @@ Flux 4 parçadan oluşuyor.
 ### Proje Dışında Kullanılan Yapılar ( / Ayraçları kullanım önceliklerine göre ayırmaktadır.)
 
 Css Pre-processor ( PURE CSS / Sass / Less ) 
+
 Front-end Frameworks (Bootstrap / Materialize / Semantic )
+
 JavaScript Frameworks ( Vanilla.js / Vue.js (4/10) / React.js (Bu proje ile öğrenim hızı çok ilerledi. (7/10)) )
+
 Task Runner ( NPM )
+
 Version Control ( Githup / Bitbucket )
+
 
 
 
