@@ -43,10 +43,10 @@ CSS İçin Sass kullanılmıştır.
 
 Projede design patternler olarak FLUX tercih edilmiştir.
 Flux 4 parçadan oluşuyor.
-# Action
-# Store
-# View
-# Dispatcher
+#### Action
+#### Store
+#### View
+#### Dispatcher
 
 
     
