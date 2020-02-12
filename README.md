@@ -28,8 +28,27 @@ Node sürümünüzü kontrol etmek için, bir terminal / konsol penceresinde dü
 Uygulama varsayılan olarak 3000 portunda açılacaktır.  ( localhost://3000 )
 
 ### Projeyi Sunucu Ortamına Taşı
+
 React projenin sunucu ortamında çalışası için buid edilmesi gerekir. Aşağıdaki kodu kullanarak build et.
+
     | npm run build
+    
+### Bilgilendirme
+
+Tasarım REACT JS front-end framework'ü ile hazırlanmıştır.
+Tasarımda herhangi bir HTML/CSS framework'ü kullanılmamıştır.
+CSS İçin Sass kullanılmıştır.
+
+### Design Patter
+
+Projede design patternler olarak FLUX tercih edilmiştir.
+Flux 4 parçadan oluşuyor.
+# Action
+# Store
+# View
+# Dispatcher
+
+
     
 
 
